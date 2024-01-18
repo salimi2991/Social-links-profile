@@ -114,12 +114,13 @@ a {
   color: var(--clr-off-black);
 }
 
-@media(min-width: 1200px) {
-    .container {
-        margin-top: 0;
-    }
+@media (min-width: 1200px) {
+  .container {
+    margin-top: 0;
+  }
 
-    .profile {
-        width: 38rem;
-    }
+  .profile {
+    width: 38rem;
+    padding: 3rem 4rem;
+  }
 }
